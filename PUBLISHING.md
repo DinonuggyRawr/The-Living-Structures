@@ -4,7 +4,7 @@
 
 Extract this kit somewhere convenient, e.g.:
 
-`C:\Users\tanne\Downloads\TLS_GitHub_Publication_Kit_v1.0.0`
+`C:\Users\[USERPROFILE]\Downloads\TLS_GitHub_Publication_Kit_v1.0.0`
 
 Open PowerShell **in the extracted kit** and run the script shown in the publication kit `START_HERE.md`, updating your actual Unity project folder if it is different.
 
