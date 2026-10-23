@@ -1,0 +1,13 @@
+﻿SOURCE PREPARATION REPORT (NOT AN AUTOMATIC LEGAL OR SECURITY APPROVAL)
+Prepared UTC: 2026-10-23 13:17:54Z
+Source files copied from ACTUAL local Unity project: 506
+Files excluded for security/binary packaging: 0
+Unity source kept: Assets, Packages, ProjectSettings, including .meta files.
+Full Unity Editor/player tests and the license rights of ALL assets must be checked separately.
+Native Zig/Wasmtime binaries must not be committed as ordinary source files.
+
+WARNINGS
+NO PROJECT LICENSE SELECTED. Public source remains under default copyright; not automatically open source.
+
+EXCLUDED FILES - REVIEW WHETHER ANY REQUIRED RUNTIME PLUGIN MUST BE LICENSED AND INCLUDED
+None

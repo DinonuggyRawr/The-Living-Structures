@@ -1,0 +1,8 @@
+{
+  "name": "TLS.EditModeTests",
+  "rootNamespace": "TLS.Tests",
+  "references": ["TLS.Runtime"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

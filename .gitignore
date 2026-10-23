@@ -1,0 +1,45 @@
+# Unity-generated files: keep Assets/, Packages/, ProjectSettings/ and their .meta files.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.vs/
+/.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.tmp
+.DS_Store
+Thumbs.db
+# Native toolchain and distributable player builds must NOT be committed to source.
+TLS_Toolchain_Windows/
+**/TLS_Toolchain_Windows/
+TLS_Standalone_Test/
+**/TLS_Standalone_Test/
+TLS_Release_Candidates*/
+**/*_QA_ONLY.zip
+**/TLS_PHASE8_RELEASE_READINESS.txt
+# Credentials, keys and environment configuration
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+*credentials*.json
+*secret*.json
